@@ -34,17 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatinbaroliya&theme=radical" alt="Streak Stats" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatinbaroliya&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 🏆 Coding Platforms
 <p align="center">
   <a href="https://leetcode.com/u/jatinbaroliya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
