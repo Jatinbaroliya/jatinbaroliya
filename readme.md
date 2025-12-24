@@ -36,8 +36,15 @@
 
 ## 🏆 Coding Platforms
 <p align="center">
-  <a href="https://leetcode.com/u/jatinbaroliya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.geeksforgeeks.org/user/jatinbar5xjo/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://codolio.com/profile/jatinbaroliya">
+    <img src="https://img.shields.io/badge/Codolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/jatinbaroliya/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/jatinbar5xjo/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
 </p>
 
 ---
